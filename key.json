@@ -1,0 +1,14 @@
+{
+  "licenses": [
+    {
+      "hardware_id": "DEVICE_HARDWARE_ID_HERE",
+      "license_key": "SPACE-X-KEY-12345",
+      "expire_date": "2026-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "ANOTHER_DEVICE_HARDWARE_ID",
+      "license_key": "SPACE-X-KEY-67890",
+      "expire_date": "2026-08-15 18:00:00"
+    }
+  ]
+}
