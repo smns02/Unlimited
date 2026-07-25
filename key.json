@@ -1,9 +1,9 @@
 {
   "licenses": [
     {
-      "hardware_id": "C1159C7A7C6DC4D07A0143C15DF812A2CE75191F0E6475D46EA0AD4AD598296C",
+      "hardware_id": "SPX-C115-9C7A-7C6D",
       "license_key": "SPACE-X-KEY-12345",
-      "expire_date": "2026-07-25 18:00:00"
+      "expire_date": "2026-07-25 18:30:00"
     },
     {
       "hardware_id": "ANOTHER_DEVICE_HARDWARE_ID",
