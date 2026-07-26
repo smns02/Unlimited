@@ -10,5 +10,10 @@
       "license_key": "SPACE-X-KEY-12345",
       "expire_date": "2029-08-15 18:00:00"
     }
+    {
+      "hardware_id": "SPX-A5CE-230F-D855",
+      "license_key": "SPACE-X-KEY-87890",
+      "expire_date": "2026-08-26 18:00:00"
+    }
   ]
 }
