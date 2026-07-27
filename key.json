@@ -34,6 +34,11 @@
       "hardware_id": "SPX-8AB1-A457-405D",
       "license_key": "SPACE-X-KEY-365",
       "expire_date": "2027-08-27 18:00:00"
+    },
+    {
+      "hardware_id": "SPX-250C-3B55-F7A4",
+      "license_key": "SPACE-X-KEY-30DAY",
+      "expire_date": "2026-08-27 18:00:00"
     }
   ]
 }
