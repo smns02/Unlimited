@@ -21,9 +21,19 @@
       "expire_date": "2026-08-27 18:00:00"
     }
     {
-     "hardware_id": "SPX-A5CE-230F-D855",
-      "license_key": "SPACE-X-KEY-87890",
-      "expire_date": "2026-08-26 18:00:00"
+     "hardware_id": "SPX-8752-6E92-E1B6",
+      "license_key": "SPACE-X-KEY-7DAY",
+      "expire_date": "2026-08-04 18:00:00"
+    }
+    {
+     "hardware_id": "SPX-53ED-4AFF-A776",
+      "license_key": "SPACE-X-KEY-7DAY",
+      "expire_date": "2026-08-04 18:00:00"
+    }
+    {
+     "hardware_id": "SPX-8AB1-A457-405D",
+      "license_key": "SPACE-X-KEY-365",
+      "expire_date": "2027-08-27 18:00:00"
     }
   ]
 }
