@@ -59,6 +59,11 @@
       "hardware_id": "SPX-E337-3DF9-A4BB",
       "license_key": "SPX-KEY-30DAY",
       "expire_date": "2026-08-29 23:59:59"
+    },
+    {
+      "hardware_id": "SPX-2422-480E-735A",
+      "license_key": "SPX-KEY-30DAY",
+      "expire_date": "2026-08-30 23:59:59"
     }
   ]
 }
