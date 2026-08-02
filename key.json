@@ -64,6 +64,11 @@
       "hardware_id": "SPX-2422-480E-735A",
       "license_key": "SPX-KEY-30DAY",
       "expire_date": "2026-08-30 23:59:59"
+    },
+    {
+      "hardware_id": "SPX-4CFE-4DDD-4E60",
+      "license_key": "SPX-KEY-2001",
+      "expire_date": "2099-12-31 23:59:59"
     }
   ]
 }
