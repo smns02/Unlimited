@@ -74,6 +74,11 @@
       "hardware_id": "SPX-8047-92E3-31AB",
       "license_key": "SPX-KEY-30DAY",
       "expire_date": "2026-09-02 23:59:59"
+    },
+    {
+      "hardware_id": "SPX-13E5-21FB-8C3C",
+      "license_key": "SPX-KEY-30DAY",
+      "expire_date": "2026-09-02 23:59:59"
     }
   ]
 }
