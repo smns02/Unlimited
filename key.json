@@ -84,6 +84,11 @@
       "hardware_id": "SPX-ECAB-8749-AAAC",
       "license_key": "SPX-KEY-30DAY",
       "expire_date": "2026-09-02 23:59:59"
+    },
+    {
+      "hardware_id": "SPX-CEB7-0C36-9CEF",
+      "license_key": "SPX-KEY-15DAY",
+      "expire_date": "2026-08-18 23:59:59"
     }
   ]
 }
