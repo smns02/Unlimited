@@ -69,6 +69,11 @@
       "hardware_id": "SPX-4CFE-4DDD-4E60",
       "license_key": "SPX-KEY-2001",
       "expire_date": "2099-12-31 23:59:59"
+    },
+    {
+      "hardware_id": "SPX-8047-92E3-31AB",
+      "license_key": "SPX-KEY-30DAY",
+      "expire_date": "2026-09-02 23:59:59"
     }
   ]
 }
